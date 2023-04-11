@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MpvRenderPlayer": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
